@@ -13,12 +13,12 @@
 <body>
 <div class="wrapper">
 	<div class="navigation">
-    	<a href="../../" class="nav-button">Home</a>
-		<a href="../Who-am-I/" class="nav-button">Who Am I</a>
-        <a href="../My-personal-brand/" class="nav-button">My Peronsal Brand</a>
+    	<a href="Templates.dwt" class="nav-button">Home</a>
+		<a href="Templates.dwt" class="nav-button">Who Am I</a>
+        <a href="Templates.dwt" class="nav-button">My Peronsal Brand</a>
         <a href="../My-college-life/" class="nav-button">My College Life</a>
-        <a href="../My-career/" class="nav-button">My Career</a>
-        <a href="../Interviews/" class="nav-button">Interviews</a>
+        <a href="Templates.dwt" class="nav-button">My Career</a>
+        <a href="Templates.dwt" class="nav-button">Interviews</a>
     </div>
     <div class="content">
     	<!-- TemplateBeginEditable name="Content " -->
